@@ -47,6 +47,6 @@ int main()
     cout<<"---------------------------------------------------"<<endl;
     Parent obj2; //it first gives the content of the Grandparent constuctor & then the content of Parent constructor
     cout<<"---------------------------------------------------"<<endl;
-    Child obj3;//it first gives the content of Parent constructor followed by the content of the Chil constructor
+    Child obj3;//it first gives the content of the Granparent constructor followed by Parent constructor and then the content of the Child constructor
 return 0;
 }
