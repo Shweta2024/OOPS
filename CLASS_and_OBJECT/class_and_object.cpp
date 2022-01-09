@@ -40,4 +40,5 @@ int main()
     obj1.details("Siddhant","CSE",21,'M');
 return 0;
 
+    
 }
